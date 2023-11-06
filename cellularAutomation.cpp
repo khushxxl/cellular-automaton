@@ -365,6 +365,7 @@ void printMenu()
     }
     else if (input == 2)
     {
+        playGame();
         printMenu();
     }
     else if (input == 3)
